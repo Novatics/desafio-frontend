@@ -1,4 +1,4 @@
-# Frotend - Desafio Veriza
+# Desafio Frontend
 
 ## Desafio
 
